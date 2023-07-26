@@ -1,4 +1,4 @@
-PHP class for converting Fortigate config file to Mikrotik instruction for easy transition from Fortigate to Mikrotik
+PHP class for converting Fortigate config file to Mikrotik instructions for easy transition from Fortigate to Mikrotik
 
 forti2mikro.php
 
